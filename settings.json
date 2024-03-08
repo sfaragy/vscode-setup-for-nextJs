@@ -1,0 +1,13 @@
+{
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.formatOnPaste": true,
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 1,
+  "laravel-pint.enable": true,
+  "editor.formatOnSave": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "git.confirmSync": false
+}
